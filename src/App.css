@@ -20,6 +20,14 @@ body {
   flex: 0.9
 }
 
+.app__graph {
+  flex-grow: 1;
+}
+
+.app__graphTitle {
+  margin-top: 20px;;
+}
+
 .app__status{
   display: flex;
   justify-content: space-between;
